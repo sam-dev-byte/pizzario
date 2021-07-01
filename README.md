@@ -19,7 +19,7 @@ messy.
 * Bootstrap
 * JQuery
 ## Support and contact details
-Get to contact me on davengash100@gmail.com
+Get to contact me on gmansesco@gmail.com
 ### License
 *MIT License.*
 Copyright (c) {2021} **Gift kipkemboi**
