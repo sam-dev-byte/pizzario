@@ -472,16 +472,17 @@ border-color: black;
 .pizzatype{
   font-weight: bolder;
   text-decoration: underline;
-  color: black;
+  color:whitesmoke;
 }
 .pizzatext{
-  color: black;
+  color: whitesmoke;
   line-height: 27px;
   font-family: ';
 }
 .col-md-4{
   border: solid gold;
   border-radius: 25px;
+  background-color: black;
   
 }
   
