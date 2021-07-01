@@ -465,3 +465,23 @@ border-color: black;
   text-decoration: underline;
   
 }
+.yorkpizza{
+  border: double  gold ;
+  border-radius: 15px;
+}
+.pizzatype{
+  font-weight: bolder;
+  text-decoration: underline;
+  color: black;
+}
+.pizzatext{
+  color: black;
+  line-height: 27px;
+  font-family: ';
+}
+.col-md-4{
+  border: solid gold;
+  border-radius: 25px;
+  
+}
+  
